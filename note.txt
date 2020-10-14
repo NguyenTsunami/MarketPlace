@@ -1,0 +1,13 @@
+.homepage:
+	+ ?main=: 
+		+ list
+		+ detail
+		+ basket
+		+ checkout
+		+ confirm
+		+ about
+		+ contact
+footer: Creator & Viewer
+right: basket-checkout & sharing & commercial
+	=> just for: list/detail/about/contact/null
+
